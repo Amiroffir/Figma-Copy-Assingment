@@ -16,7 +16,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background: url(image\Rectangle11.png); */
   backdrop-filter: blur(994.02px);
   fill: solid;
 }
