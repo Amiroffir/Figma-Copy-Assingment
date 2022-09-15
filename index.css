@@ -1,0 +1,304 @@
+@import url("http://fonts.cdnfonts.com/css/axiforma");
+/* @import url(//db.onlinewebfonts.com/c/917a69d24b88e2d4d2ca803c0605bd59?family=CeraPRO-Regular); */
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  margin: 0;
+  padding: 0;
+  height: 938.23px;
+  width: 1300px;
+  overflow-x: hidden;
+  font-family: sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: url(image\Rectangle11.png); */
+  backdrop-filter: blur(994.02px);
+  fill: solid;
+}
+nav {
+  position: relative;
+  height: 41.78969192504883px;
+  width: 1217.1251220703125px;
+  left: 131.63671875px;
+  top: 51.1923828125px;
+  border-radius: 0px;
+}
+.one-space {
+  position: fixed;
+  height: 36.56597900390625px;
+  width: 104.47422790527344px;
+  left: 608.634765625px;
+  top: 53.28173828125px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25.2528px;
+  line-height: 37px;
+  text-align: center;
+  color: #000000;
+}
+.nav-link {
+  text-decoration: none;
+  color: #686c75;
+  font-weight: 400;
+}
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 41.79px;
+  position: fixed;
+  height: 41.78969192504883px;
+  width: 285.2146301269531px;
+  left: 101.63671875px;
+  top: 51.1923828125px;
+  padding: 10px;
+}
+.nav-links2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  gap: 41.79px;
+  position: fixed;
+  height: 41.78969192504883px;
+  width: 285.2146301269531px;
+  left: 947.64px;
+  top: 51.1923828125px;
+}
+.Ellipse3 {
+  position: fixed;
+  width: 186.17670440673828px;
+  height: 186.17670440673828px;
+  left: 1060.1376953125px;
+  top: 287.3017578125px;
+  border-radius: 0px;
+  filter: drop-shadow(0px 56.4161px 87.7584px rgba(255, 200, 118, 0.35));
+}
+.bg-image {
+  width: 100%;
+  height: 930px;
+  background-position: center;
+  background-size: cover;
+  position: fixed;
+}
+.Ellipse1 {
+  position: fixed;
+  width: 197.19px;
+  height: 197.19px;
+  left: 846.42px;
+  top: 214.49px;
+  filter: drop-shadow(0px 40.8518px 63.5473px rgba(255, 200, 118, 0.35));
+  z-index: 2;
+}
+.Ellipse2 {
+  position: fixed;
+  width: 182.13px;
+  height: 182.13px;
+  left: 937.77px;
+  top: 374.21px;
+  filter: drop-shadow(0px 40.8518px 63.5473px rgba(255, 200, 118, 0.35));
+}
+
+.maskimg {
+  position: fixed;
+  width: 344.97px;
+  height: 500.06px;
+  left: 642.67px;
+  top: 223.57px;
+  border-radius: 272.346px 272.346px 0px 0px;
+  z-index: 1;
+}
+
+.rectangle9 {
+  position: fixed;
+  width: 344.97px;
+  height: 500.06px;
+  left: 622.67px;
+  top: 203.57px;
+  border-radius: 272.346px 272.346px 0px 0px;
+}
+.sideText {
+  position: fixed;
+  width: 343.46px;
+  height: 49.17px;
+  left: 843.85px;
+  top: 530.25px;
+  font-family: "Axiforma", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39.0693px;
+  line-height: 49px;
+  color: #000000;
+  opacity: 0.1;
+  transform: rotate(-90deg);
+}
+.Vector1 {
+  position: fixed;
+  width: 56.74px;
+  height: 11.35px;
+  left: 188.91px;
+  top: 328.1px;
+}
+.mainText {
+  position: fixed;
+  width: 420.46px;
+  height: 256.69px;
+  left: 185.91px;
+  top: 354.28px;
+
+  font-family: "Axiforma", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50.3649px;
+  line-height: 54px;
+
+  color: #000000;
+}
+.blurBox {
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  align-items: center;
+  justify-content: space-around;
+  width: 650.85px;
+  height: 74.14px;
+  left: 175.27px;
+  top: 590.98px;
+  gap: 90px;
+  background: rgba(243, 243, 243, 0.6);
+  backdrop-filter: blur(25.7215px);
+  border-radius: 3.78258px;
+  z-index: 2;
+}
+.inBlur1 {
+  display: flex;
+  font-family: "Cera Pro", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.6173px;
+  line-height: 17px;
+  padding-left: 30px;
+  z-index: 3;
+  color: #989898;
+  @font-face {
+    font-family: "CeraPRO-Regular";
+    src: url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.eot");
+    src: url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.eot?#iefix")
+        format("embedded-opentype"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.woff2")
+        format("woff2"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.woff")
+        format("woff"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.ttf")
+        format("truetype"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.svg#CeraPRO-Regular")
+        format("svg");
+  }
+}
+.inBlur2 {
+  display: flex;
+  font-family: "Cera Pro", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.6173px;
+  line-height: 17px;
+  margin-left: 10px;
+  z-index: 3;
+  color: #989898;
+  @font-face {
+    font-family: "CeraPRO-Regular";
+    src: url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.eot");
+    src: url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.eot?#iefix")
+        format("embedded-opentype"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.woff2")
+        format("woff2"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.woff")
+        format("woff"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.ttf")
+        format("truetype"),
+      url("//db.onlinewebfonts.com/t/917a69d24b88e2d4d2ca803c0605bd59.svg#CeraPRO-Regular")
+        format("svg");
+  }
+}
+
+.scheduleVisit {
+  width: 127.85px;
+  height: 40.85px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.1042px;
+  line-height: 18px;
+  text-align: center;
+  cursor: pointer;
+  margin-right: -10px;
+  background: #fd5b2f;
+  color: #ffffff;
+  border-radius: 3.78258px;
+  border: none;
+}
+.Vec-in-blur {
+  position: fixed;
+  width: 6.15px;
+  height: 6.15px;
+  left: 48.94px;
+  top: 32.09px;
+}
+.Vec-in-blur2 {
+  position: fixed;
+  width: 11.35px;
+  height: 15.13px;
+  left: 45.83px;
+  top: 29.49px;
+}
+.peopleVisited {
+  position: fixed;
+  width: 592.85px;
+  height: 28.86px;
+  left: 192.59px;
+  top: 699.45px;
+}
+.logos {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 40.48px;
+  position: fixed;
+  width: 650.56px;
+  height: 24.15px;
+  left: 334.47px;
+  top: 814.44px;
+}
+.logo1 {
+  width: 71.1px;
+  height: 24.15px;
+}
+.logo2 {
+  width: 95.83px;
+  height: 24.15px;
+}
+.logo3 {
+  width: 112.44px;
+  height: 24.15px;
+  opacity: 0.8;
+}
+.logo4 {
+  width: 120.74px;
+  height: 24.15px;
+}
+.logo5 {
+  width: 84.52px;
+  height: 24.15px;
+}
+@media screen and (max-width: 700px) {
+  .bg-image {
+    width: 1375px;
+    height: 1200px;
+  }
+}
